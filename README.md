@@ -1,5 +1,7 @@
 ## Hi there 👋
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimondl)](https://solved.ac/kimondl)​
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimondl)](https://solved.ac/kimondl)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=rladhs123&theme=dark)](https://git.io/streak-stats)​
 <!--
 **rladhs123/rladhs123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
